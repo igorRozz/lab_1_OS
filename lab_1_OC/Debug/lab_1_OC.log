@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\rozum\source\repos\lab_1_OC\lab_1_OC\main.cpp(12,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rozum\source\repos\lab_1_OC\lab_1_OC\main.cpp(60,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rozum\source\repos\lab_1_OC\lab_1_OC\main.cpp(153,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rozum\source\repos\lab_1_OC\lab_1_OC\main.cpp(163,10): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rozum\source\repos\lab_1_OC\lab_1_OC\main.cpp(166,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rozum\source\repos\lab_1_OC\lab_1_OC\main.cpp(177,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rozum\source\repos\lab_1_OC\lab_1_OC\main.cpp(187,10): warning C4018: <: несоответствие типов со знаком и без знака
+  lab_1_OC.vcxproj -> C:\Users\rozum\source\repos\lab_1_OC\Debug\lab_1_OC.exe
